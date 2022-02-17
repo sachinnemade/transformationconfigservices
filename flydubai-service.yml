@@ -1,4 +1,4 @@
 s3:
-  token: 'new Token from flydubai service - Development environment	'
+  token: 'default config token'
   accesskey: '{cipher}d3d8fdc0ea2446b97bd9cd2d48bd92e73dcc3b94ca2cb17b67e4fe1950f032f1d95d809b127593d16aaac3a7fa9a7b87'
   secretkey: '{cipher}0396881c444d308c29007328c57e862d26abbcba5b88a36f7c238b460ad9fb6f95dd0bbca95254d38feee8e8647828d2ae2803d382deff96e3e7638c57549260'
